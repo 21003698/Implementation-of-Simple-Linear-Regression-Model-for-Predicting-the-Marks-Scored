@@ -9,12 +9,13 @@ To write a program to implement the simple linear regression model for predictin
 
 ## Algorithm
 
- Import the required Libraries.
- Import the csv file.
- Declare X and Y values with respect to the dataset.
- Plot the graph using the matplotlib library.
- Print the plot.
- End the program.
+    Import the required Libraries.
+    Import the csv file.
+    Declare X and Y values with respect to the dataset.
+    Plot the graph using the matplotlib library.
+    Print the plot.
+    End the program.
+
 
 
 ## Program:
